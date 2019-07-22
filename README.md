@@ -7,4 +7,5 @@ Allows you to set a keybind to use to sprint
 **Requires ModLoader**
 ## Install Instructions
 1. Install ModLoader
-2. Place mod in your Mods folder or use Loader Mods in MultiMC
+2. Download the mod from the Releases section of the repository.
+3. Place zip file in your Mods folder or use Loader Mods in MultiMC
